@@ -1,0 +1,21 @@
+CANTILEVER SLIDE GATE CALCULATION SUMMARY
+==================================================
+
+Project Date: 2025-07-06
+Gate Size: 6.0m x 2.4m
+Steel Grade: A572_50
+Design Wind Speed: 33.5 m/s
+
+STRUCTURAL RESULTS:
+--------------------
+Gate Weight: 689.7 kg
+Counterweight: 3456.5 kg
+Wind Load: 11887.6 N
+Beam Stress: 0.0 MPa
+Deflection: 0.0 mm
+
+DESIGN ADEQUACY:
+--------------------
+Design Status: ADEQUATE
+Design Notes:
+  - Counterweight is very heavy - consider design optimization

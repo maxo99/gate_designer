@@ -1,0 +1,22 @@
+{
+  "units": "metric",
+  "safety_factors": {
+    "structural": 2.5,
+    "foundation": 3.0,
+    "fatigue": 2.0
+  },
+  "default_materials": {
+    "steel_grade": "A572_50",
+    "infill_type": "chain_link"
+  },
+  "design_parameters": {
+    "wind_speed_ms": 33.5,
+    "seismic_zone": "low",
+    "exposure_category": "C"
+  },
+  "output_settings": {
+    "generate_drawings": true,
+    "generate_calculations": true,
+    "generate_specifications": true
+  }
+}

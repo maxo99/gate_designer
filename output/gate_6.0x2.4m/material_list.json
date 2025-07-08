@@ -1,0 +1,22 @@
+[
+  {
+    "item": "Main Frame HSS",
+    "size": "150x150x6",
+    "length_mm": 16800,
+    "weight_kg": 150,
+    "material": "A572 Grade 50"
+  },
+  {
+    "item": "Track Rail",
+    "size": "CR135",
+    "length_mm": 9000.0,
+    "weight_kg": 1215.0,
+    "material": "A572 Grade 50"
+  },
+  {
+    "item": "Counterweight",
+    "size": "Concrete Block",
+    "weight_kg": 900.0,
+    "material": "Concrete"
+  }
+]

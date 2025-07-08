@@ -1,0 +1,7 @@
+CANTILEVER SLIDE GATE DRAWINGS
+========================================
+
+Gate Dimensions: 6.0m x 2.4m
+Cantilever Length: 3.0m
+Track Length: 9.0m
+Counterweight Length: 1.8m

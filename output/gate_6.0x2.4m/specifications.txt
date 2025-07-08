@@ -1,0 +1,20 @@
+CANTILEVER SLIDE GATE SPECIFICATIONS
+========================================
+
+GENERAL REQUIREMENTS:
+- Gate shall be cantilever slide type
+- All steel shall be hot-dip galvanized
+- Gate shall operate smoothly with minimal force
+- Design shall comply with local building codes
+
+MATERIALS:
+- Steel Grade: A572_50
+- Infill Type: chain_link
+- Hardware: Stainless steel where exposed
+- Finish: Hot-dip galvanized per ASTM A123
+
+PERFORMANCE REQUIREMENTS:
+- Wind Load: 33.5 m/s
+- Operating Temperature: -40°C to +60°C
+- Service Life: 25 years minimum
+- Maintenance: Annual inspection required

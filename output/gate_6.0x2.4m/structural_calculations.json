@@ -1,0 +1,16 @@
+{
+  "gate_weight_N": 6765.957,
+  "gate_weight_kg": 689.7,
+  "wind_load_N": 11887.590240000001,
+  "dead_moment_Nmm": 10148935.5,
+  "wind_moment_Nmm": 14265108.288000003,
+  "total_overturning_Nmm": 24414043.788000003,
+  "counterweight_N": 33908.39415,
+  "counterweight_kg": 3456.5131651376146,
+  "front_wheel_load_N": 3382.9785,
+  "rear_wheel_load_N": 37291.37265,
+  "horizontal_load_N": 676.5957000000001,
+  "beam_stress_Pa": 24.414043788,
+  "beam_stress_MPa": 2.4414043788e-05,
+  "deflection_mm": 3.04468065e-06
+}
